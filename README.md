@@ -24,7 +24,7 @@
 
 ## 贡献
 
-如果你发现了任何关于SHU排课助手的问题，或有新功能建议，你可以[在Github上提issues](https://github.com/shuxms/shu-course-select-helper/issues/new)。
+如果你发现了任何关于选课小本本在线版的问题，或有新功能建议，你可以[在Github上提issues](https://github.com/shuxms/shu-course-select-helper/issues/new)。
 
 **请给项目点一个STAR！** 🌟 **谢谢！**
 
