@@ -9,7 +9,8 @@
 | **前端** | **[vue](https://github.com/vuejs/vue)**<br />[ant-design-vue](https://github.com/vueComponent/ant-design-vue) (用户界面)|
 | **后端** ||
 
-##功能挖坑
+## 功能挖坑
+
 - 支持检索查找评价
 - 支持正则表达式以方便对比特定课程/老师
 - 支持一键加入排课助手待选
